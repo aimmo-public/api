@@ -1,0 +1,21 @@
+{
+  "user": {
+    "first_name": "John",
+    "last_name": "Jones",
+    "email": "john.jones@aimmo.io",
+    "phone": "555123456"
+  },
+  "apartment": {
+    "city": "Zurich",
+    "country": "Switzerland",
+    "street": "Zimerlistrasse",
+    "street_number": "23a",
+    "year_of_building": "1998-12-31",
+    "zip": "023910",
+    "description": "1. OG rechts",
+    "ewid": 1,
+    "egid": 999999999,
+    "with_basement": true
+  }
+}
+
