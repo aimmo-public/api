@@ -45,8 +45,6 @@ public class CLI {
 
 			String response = client.postProtocol(readFile(file)); 
 
-			System.out.println(response); 
-
 			System.out.println("Response: " + response);
 
 		} catch (Exception e) {
