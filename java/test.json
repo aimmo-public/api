@@ -6,6 +6,7 @@
     "phone": "555123456"
   },
   "apartment": {
+    "partner_property_id": "Z001",
     "city": "Zurich",
     "country": "Switzerland",
     "street": "Zimerlistrasse",
